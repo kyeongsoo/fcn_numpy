@@ -1,5 +1,7 @@
 # FullyConnected neural network layer from scratch
 Fully connected layer from scratch, with training on MNIST dataset. <br>
+The scripts are all for creating a Fully-Connected Neural Network layer and making a custom model. <br>
+Also the model trains on fully custom training loop. All the optimizer and loss function are written from scratch.
 ## Article:
 Please go and checkout my article about this project for full explanations and detils:
 https://medium.com/@YasinShafiei/making-a-neural-network-fully-connected-layer-from-scratch-only-numpy-49bd7958b6f3
